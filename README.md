@@ -1,4 +1,11 @@
-## Hi there 👋
+
+👋 Hi, I’m Yukendran V.
+👀 I’m interested in Frontend Development, Data Analysis, and IT Technical Support.
+🌱 I’m currently learning MERN Stack and enhancing my skills in full-stack development.
+💞️ I’m looking to collaborate on web development projects and innovative tech solutions.
+📫 How to reach me: yukendranv9884@gmail.com or connect with me on LinkedIn.
+😄 Pronouns: He/Him
+⚡ Fun fact: I enjoy creating interactive web applications and participating in coding challenges with my Code Odyssey team.
 
 <!--
 **yuga-techz/yuga-techz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
