@@ -1,7 +1,7 @@
 
 👋 Hi, I’m Yukendran V.
 👀 I’m interested in Frontend Development, Data Analysis, and IT Technical Support.
-🌱 I’m currently learning MERN Stack and enhancing my skills in full-stack development.
+🌱 I’m currently learning java Stack and enhancing my skills in full-stack development.
 💞️ I’m looking to collaborate on web development projects and innovative tech solutions.
 📫 How to reach me: yukendranv9884@gmail.com or connect with me on LinkedIn.
 😄 Pronouns: He/Him
