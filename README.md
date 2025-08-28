@@ -20,17 +20,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuga-techz&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yuga-techz&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
@@ -47,18 +36,21 @@
 <a href="mailto:yukendranv9884@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuga-techz&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yuga-techz&theme=radical" alt="GitHub Streak" />
-</p>
+## 📈 GitHub Stats
 
-### 💡 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuga-techz&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jarvis2754&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jarvis2754&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jarvis2754&layout=compact&theme=radical)
+
+
+---
+
+## ✨ Fun Fact
+> “Bad programmers worry about the code. Good programmers worry about data structures and their relationships.”  
+> — Linus Torvalds
+
+
 
