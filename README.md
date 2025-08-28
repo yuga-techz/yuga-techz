@@ -39,18 +39,17 @@
 
 ## 📈 GitHub Stats
 
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jarvis2754&theme=radical)
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuga-techz&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jarvis2754&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuga-techz&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jarvis2754&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuga-techz&layout=compact&theme=radical)
 
 
 ---
 
-## ✨ Fun Fact
-> “Bad programmers worry about the code. Good programmers worry about data structures and their relationships.”  
-> — Linus Torvalds
+## ✨ BYE
+> 
 
 
 
