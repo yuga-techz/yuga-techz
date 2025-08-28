@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yukendran V.</h1>
-<h3 align="center">A Passionate Full-Stack Developer | Data Analyst | IT Technical Support</h3>
+<h3 align="center">A Passionate Full-Stack Developer | IT Technical Support</h3>
 
 ---
 
@@ -46,3 +46,19 @@
 <a href="https://www.linkedin.com/in/yukendran-v" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:yukendranv9884@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuga-techz&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yuga-techz&theme=radical" alt="GitHub Streak" />
+</p>
+
+### 💡 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuga-techz&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
